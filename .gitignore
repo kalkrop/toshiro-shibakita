@@ -1,0 +1,15 @@
+.env
+
+node_modules/
+vendor/
+
+*.log
+
+tmp/
+cache/
+
+.idea/
+.vscode/
+
+*~ 
+*.bak
